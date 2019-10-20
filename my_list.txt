@@ -1,0 +1,4 @@
+"Laptop"
+"Cellphone"
+"Tablet"
+"Desktop"
