@@ -1,0 +1,6 @@
+"Wellington"
+"Aukland"
+"Queenstown"
+"Raglan"
+"Christchurch"
+"Wanaka"
